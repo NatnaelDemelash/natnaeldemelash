@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<!-- saved from url=(0034)https://natnaeldemelash.github.io/ -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- ICONSCOUT CDN -->
+    <link rel="stylesheet" href="./Natnael&#39;s Portfolio_files/unicons.css">
+     <!-- GOOGLE FONT(NUNITO) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com/">
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
+    <link href="./Natnael&#39;s Portfolio_files/css2" rel="stylesheet">
+    <link rel="stylesheet" href="./Natnael&#39;s Portfolio_files/style.css">
+    <title>Natnael's Portfolio</title>
+</head>
+<body>
+    <nav>
+        <div class="container nav-container">
+            <a href="https://natnaeldemelash.github.io/index.html" class="logo">
+                <h3>NatiD.</h3>
+            </a>
+
+            <ul class="nav__menu">
+                <li><a href="https://natnaeldemelash.github.io/index.html">HOME</a></li>
+                <li><a href="https://natnaeldemelash.github.io/#services">SERVICES</a></li>
+                <li><a href="https://natnaeldemelash.github.io/#portfolio">PORTFOLIO</a></li>
+                <li><a href="https://natnaeldemelash.github.io/#contact">CONTACT</a></li>
+                <li>  <a href="https://natnaeldemelash.github.io/#" class="btn btn-primary" download="">
+                    <i class="uil uil-download-alt"></i>
+                    Download Resume</a></li>
+            </ul>
+
+            <button id="open-menu-btn"><i class="uil uil-bars"></i></button>
+            <button id="close-menu-btn"><i class="uil uil-multiply"></i></button>
+        </div>
+    </nav>
+
+
+    <!-- END OF NAVBAR -->
+
+
+    <header>
+        <div class="container hero-container">
+            <div class="hero-left">
+                <div>
+                    <h3>Hello there! I'm</h3>
+                    <h1>Natnael <br> Demelash</h1>
+                    <p>
+                        A Frontend Web developer.
+                        I enjoy building everything from small business sites to rich interactive web apps. 
+                        if you are a business seeking a web presence or an employer looking to hire, you can get in touch with me here.
+                    </p>
+                    <a href="https://natnaeldemelash.github.io/#contact" class="btn btn-primary btn-lg">Get In touch</a>
+                </div>
+            </div>
+
+            <div class="hero-right">
+                <div class="hero-img">
+                    <img src="./Natnael&#39;s Portfolio_files/profile-2.png" alt="">
+                </div>
+                <div class="right-bg"></div>
+                <ul class="hero-socials">
+                    <li><a href="https://natnaeldemelash.github.io/" target="_blank"><i class="uil uil-linkedin"></i></a></li>
+                    <li><a href="https://natnaeldemelash.github.io/" target="_blank"><i class="uil uil-twitter"></i></a></li>
+                    <li><a href="https://natnaeldemelash.github.io/" target="_blank"><i class="uil uil-facebook"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </header>
+    <!-- END OF HEADER -->
+
+
+    <section id="companies">
+            <div class="container companies-container">
+                <span><img src="./Natnael&#39;s Portfolio_files/company-1.png" alt=""></span>
+                <span><img src="./Natnael&#39;s Portfolio_files/company-2.png" alt=""></span>
+                <span><img src="./Natnael&#39;s Portfolio_files/company-4.png" alt=""></span>
+                <span><img src="./Natnael&#39;s Portfolio_files/company-1.png" alt=""></span>
+                <span><img src="./Natnael&#39;s Portfolio_files/company-3.png" alt=""></span>
+                <span><img src="./Natnael&#39;s Portfolio_files/company-2.png" alt=""></span>
+            </div>
+    </section>
+
+    <!-- COMPANIES SECTION ENDED -->
+
+    <section id="services">
+        <div class="container services-container">
+            <div class="services-left">
+                <h1>2+</h1>
+                <h4>Years of working experiance</h4>
+                <small>
+                    Lorem, ipsum dolor sit amet consectetur adipisicing
+                elit. Vel autem beatae necessitatibus a ullam sit
+                sint, fuga eaque incidunt minus alias? Quos, tempore rerum!
+                </small>
+            </div>
+            <div class="services-right">
+                <h4>Junior frontend web developer with a 2 year expierance.Skilled in Vue.js,
+                    Cascading Style Sheets (CSS), JavaScript, HTML5, and Git.</h4>
+
+                <div class="cards">
+                    <div class="services-card">
+                        <span class="services-card-icon"> <i class="uil uil-desktop"></i></span>
+                        <h5>Web Development</h5>
+                        <a href="https://natnaeldemelash.github.io/">Discover More <i class="uil uil-arrow-right"></i></a>
+                    </div>
+    
+                    <div class="services-card">
+                        <span class="services-card-icon"> <i class="uil uil-mobile-android"></i></span>
+                        <h5>Mob App Development</h5>
+                        <a href="https://natnaeldemelash.github.io/">Discover More <i class="uil uil-arrow-right"></i></a>
+                    </div>
+    
+                    <div class="services-card">
+                        <span class="services-card-icon"> <i class="uil uil-cloud-computing"></i></span>
+                        <h5>Networking</h5>
+                        <a href="https://natnaeldemelash.github.io/">Discover More <i class="uil uil-arrow-right"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- END OF SERVICES-->
+
+    <section id="portfolio">
+        <div class="container portfolio-container">
+            <div class="portfolio-head">
+                <h3>Outwork, Succesful client products!</h3>
+                <div class="portfolio-head-right">
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                        Aperiam in et rerum iste mollitia doloremque vel hic sed iusto rem?
+                    </p>
+                    <a href="https://natnaeldemelash.github.io/#">Explore More <i class="uil uil-arrow-right"></i> </a>
+                </div>
+            </div>
+
+            <div class="portfolio-projects">
+                <article class="portfolio-project">
+                    <span class="portfolio-project-img"><img src="./Natnael&#39;s Portfolio_files/proj-1.jpg" alt=""></span>
+                    <div class="portfolio-cta">
+                        <a href="https://github.com/" target="_blank" class="btn">Github</a>
+                        <a href="https://behance.net/" target="_blank" class="btn btn-primary">Demo</a>
+                    </div>
+                </article>
+                <article class="portfolio-project">
+                    <span class="portfolio-project-img"><img src="./Natnael&#39;s Portfolio_files/proj-2.jpg" alt=""></span>
+                    <div class="portfolio-cta">
+                        <a href="https://github.com/" target="_blank" class="btn">Github</a>
+                        <a href="https://behance.net/" target="_blank" class="btn btn-primary">Demo</a>
+                    </div>
+                </article>
+                <article class="portfolio-project">
+                    <span class="portfolio-project-img"><img src="./Natnael&#39;s Portfolio_files/proj-3.png" alt=""></span>
+                    <div class="portfolio-cta">
+                        <a href="https://github.com/" target="_blank" class="btn">Github</a>
+                        <a href="https://behance.net/" target="_blank" class="btn btn-primary">Demo</a>
+                    </div>
+                </article>
+                <article class="portfolio-project">
+                    <span class="portfolio-project-img"><img src="./Natnael&#39;s Portfolio_files/proj-4.png" alt=""></span>
+                    <div class="portfolio-cta">
+                        <a href="https://github.com/" target="_blank" class="btn">Github</a>
+                        <a href="https://behance.net/" target="_blank" class="btn btn-primary">Demo</a>
+                    </div>
+                </article>
+            </div>
+        </div>
+    </section>
+
+    <!--PORTFOLIO END-->
+
+    <section id="contact">
+        <div class="container contact-container">
+            <div class="contact-left">
+                <h2>Let's Talk</h2>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                    dio eligendi soluta commodi ullam dolore qui voluptatum pariatur reiciendis at quam!
+                </p>
+                <ul class="contact-socials">
+                    <li><a href="https://natnaeldemelash.github.io/" target="_blank"><i class="uil uil-linkedin"></i></a></li>
+                    <li><a href="https://natnaeldemelash.github.io/" target="_blank"><i class="uil uil-twitter"></i></a></li>
+                    <li><a href="https://natnaeldemelash.github.io/" target="_blank"><i class="uil uil-facebook"></i></a></li>
+                </ul>
+            </div>
+
+            <form action="https://formspree.io/f/xpzbbaje" method="POST">
+                <input type="text" name="name" placeholder="Your Name">
+                <input type="email" name="email" placeholder="Your Email">
+                <textarea name="message" rows="6" placeholder="Your Message"></textarea>
+                <button type="submit" class="btn">Send<i class="uil uil-arrow-up-right"></i></button>
+            </form>
+        </div>
+    </section>
+
+    <footer>
+        <small>
+            Copyright © Natnael Demelash 2022
+        </small>
+    </footer>
+
+    <script src="./Natnael&#39;s Portfolio_files/main.js.download"></script>
+
+<div id="forest-ext-shadow-host"></div></body></html>
